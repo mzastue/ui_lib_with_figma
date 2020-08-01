@@ -1,3 +1,4 @@
-const text: string = "Hello world";
+import { TextType } from './index.types';
+const text: TextType = 'Hello world';
 
-console.log(text);
+export default text;
