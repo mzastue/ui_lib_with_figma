@@ -1,4 +1,3 @@
-import { TextType } from './index.types';
-const text: TextType = 'Hello world';
+import Example from 'components/Example';
 
-export default text;
+export { Example };
